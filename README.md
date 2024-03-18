@@ -14,4 +14,4 @@ El primer tutorial indica qué deberás tener instalado para los tutoriales y pr
 
 Estos tutoriales parten de la base de tener instalados OpenSeesPy, opsvis, vfo y opseestools. 
 
-Esta última es una librería de rutinas de análisis que he desarrollado conjuntamente con mis estudiantes. La librería se puede instalar directamente desde PyPi y el repositorio está disponible en: https://github.com/odarroyo/opseestools 
+Esta última es una librería de rutinas de análisis que he desarrollado conjuntamente con mis estudiantes. La librería se puede instalar directamente desde PyPi: https://pypi.org/project/opseestools/ y el repositorio está disponible en: https://github.com/odarroyo/opseestools 
