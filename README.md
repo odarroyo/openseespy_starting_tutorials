@@ -11,7 +11,9 @@ Under no circumstances do these tutorials replace an advanced analysis course, w
 
 ## Requisitos de instalación / Requirements
 El primer tutorial indica qué deberás tener instalado para los tutoriales y proporciona los comandos para hacerlo.
-
 Estos tutoriales parten de la base de tener instalados OpenSeesPy, opsvis, vfo y opseestools. 
-
 Esta última es una librería de rutinas de análisis que he desarrollado conjuntamente con mis estudiantes. La librería se puede instalar directamente desde PyPi: https://pypi.org/project/opseestools/ y el repositorio está disponible en: https://github.com/odarroyo/opseestools 
+
+The first tutorial indicates what you will need to have installed for the tutorials and provides the commands to do so.
+These tutorials assume that OpenSeesPy, opsvis, vfo, and opseestools are installed.
+The latter is a library of analysis routines that I have developed together with my students. The library can be installed directly from PyPi: https://pypi.org/project/opseestools/ and the repository is available at: https://github.com/odarroyo/opseestools
