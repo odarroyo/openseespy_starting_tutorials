@@ -1,7 +1,7 @@
 # Tutoriales de inicio para OpenSeesPy / OpenSeesPy Starting tutorials
 
 ## Descripción 
-Este respositorio está dedicado a tutoriales de inicio con el OpenSeesPy.
+Este repositorio está dedicado a tutoriales de inicio con el OpenSeesPy.
 Los tutoriales están pensados para pórticos de concreto reforzado modelados con elementos de fibras.
 Bajo ninguna circunstancia estos tutoriales reemplazan un curso de análisis avanzado, donde se exponen fundamentos de modelación de manera clara y detallada. 
 El propósito de estos tutoriales es ayudar a quienes se están iniciando en el mundo de OpenSeesPy y los tutoriales están basados en modelos de concreto reforzado. 
