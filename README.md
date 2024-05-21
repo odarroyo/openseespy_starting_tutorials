@@ -16,7 +16,8 @@ The tutorials are based on the examples available in the OpenSees wiki: https://
 ## Requisitos de instalación / Requirements
 Los tutoriales están escritos en su gran mayoría en Jupyter Notebooks. Estos tutoriales parten de la base de tener instalados OpenSeesPy, opsvis, vfo y opseestools. 
 El primer tutorial indica qué deberás tener instalado para los tutoriales y proporciona los comandos para hacerlo.
-Esta última es una librería de rutinas de análisis que he desarrollado conjuntamente con mis estudiantes. La librería se puede instalar directamente desde PyPi: https://pypi.org/project/opseestools/ y el repositorio está disponible en: https://github.com/odarroyo/opseestools 
+Esta última es una librería de rutinas de análisis que he desarrollado conjuntamente con mis estudiantes. La librería se puede instalar directamente desde PyPi: https://pypi.org/project/opseestools/ y el repositorio está disponible en: https://github.com/odarroyo/opseestools
+
 Los tutoriales 2 al 7 son una progresión que inicia con un modelo elástico de un elemento en voladizo y que culmina en el análisis de un pórtico de concreto modelado con elementos de fibra, sometido a un análisis dinámico. Estos tutoriales están basados en el ejemplo disponible en el wiki de OpenSees: https://opensees.berkeley.edu/wiki/index.php?title=OpenSees_Example_5._2D_Frame,_3-story_3-bay,_Reinforced-Concrete_Section_%26_Steel_W-Section
 
 Los tutoriales 8 y 9 se separan de los ejemplos del wiki de OpenSees, ya que están mas enfocados en la integración de OpenSeesPy con Python:
