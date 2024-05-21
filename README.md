@@ -37,6 +37,6 @@ The latter is a library of analysis routines that I have developed together with
 
 Tutorials 2 to 7 are a progression starting with an elastic model of a cantilever element and culminating in the analysis of a concrete  frame modeled with fiber elements, subjected to a dynamic analysis. These tutorials are based on the example available on the OpenSees wiki: https://opensees.berkeley.edu/wiki/index.php?title=OpenSees_Example_5._2D_Frame,_3-story_3-bay,_Reinforced-Concrete_Section_%26_Steel_W-Section.
 
-Tutorials 8 and 9 are separate from the OpenSees wiki examples, as they are more focused on the integration of OpenSeesPy with Python:
+Tutorials 8 and 9 separate from the OpenSees wiki examples, as they are more focused on the integration of OpenSeesPy with Python:
 Tutorial 8 shows how to take advantage of Python to apply incremental dynamic analysis with a seismic log.
 Tutorial 9 is an example of integrating OpenSeesPy with the Python multiprocessing library by applying a multi-log IDA to a nonlinear model with two reinforced concrete walls. This can be modified if you wish to apply it to any other type of model.
